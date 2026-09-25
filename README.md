@@ -1460,7 +1460,5 @@ If you find this project useful, please consider giving it a star ⭐
 
 Made with ❤️ by [Nupur Pusha]
 
-[⬆ Back to Top](#-ai-powered-job-portal)
-
 </div>
 
